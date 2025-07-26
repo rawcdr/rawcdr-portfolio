@@ -19,7 +19,7 @@ const About = () => {
             <div className="about-para">
                 <p>I’m a pre-final year student at VIT Chennai, passionate about frontend development and currently exploring the world of machine learning. I’ve interned as an ML Intern at AnkerCloud, where I gained hands-on experience with real-world Gen AI projects, AWS and GCP.</p>
                 <p>With a strong drive to learn and build, I enjoy combining design with intelligence to create impactful digital solutions. I'm excited to step into the corporate world and grow as a developer.</p>
-                <p>College: VIT Chennai, Chennai, Tamil Nade, 600127, India</p>
+                <p>College: VIT Chennai, Chennai, Tamil Nadu, 600127, India</p>
                 <p>Experience: ML Intern at AnkerCloud, Frontend Developer Intern at Code Aplha</p>
             </div>
             <div className="about-skills">
